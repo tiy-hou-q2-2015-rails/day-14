@@ -1,4 +1,4 @@
-Day 14 - Git, GitHub
+Day 14 - Git and GitHub
 ====================
 
 Challenge - Word Count
