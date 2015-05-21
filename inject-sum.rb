@@ -1,4 +1,3 @@
-require 'pry'
 numbers = [5,6,7,8]
 
 # puts numbers.inject(:+)
