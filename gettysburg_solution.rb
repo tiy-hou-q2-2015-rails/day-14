@@ -22,3 +22,5 @@ counted
   .each do |word|
     puts "#{word}: #{counted[word]}"
   end
+  
+puts "😎"
